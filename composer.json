@@ -1,5 +1,5 @@
 {
-    "name": "zzantares/proxmoxve",
+    "name": "hallofcode/forkedzzantaresproxmoxve",
     "type": "library",
     "description": "A simple PHP 5.5+ Proxmox API client.",
     "keywords": ["Proxmox", "API", "KVM", "OpenVZ", "Virtualization"],
@@ -8,8 +8,8 @@
 
     "authors": [
         {
-            "name": "César Muñoz",
-            "email": "zzantares@gmail.com",
+            "name": "Originaly from César Muñoz",
+            "email": "No support zzantares@gmail.com",
             "role": "Developer"
         }
     ],
